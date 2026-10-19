@@ -1,5 +1,7 @@
 # Thailand International School Fee History (2020/21–2024/25)
 
+[![Licence: CC BY-NC 4.0](https://img.shields.io/badge/Licence-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) [![Records](https://img.shields.io/badge/records-455-blue.svg)](#files) [![Canonical report](https://img.shields.io/badge/report-credradar.org-teal.svg)](https://credradar.org/reports/thailand-international-school-fees/)
+
 Annual tuition fee history for international schools in Thailand — 455 school-year records for 99 schools, recovered from archived published sources. Every record is a figure that was actually published; nothing is interpolated, estimated, or modelled.
 
 Published by [CredRadar](https://credradar.org) — Thailand international schools, every fee verified. The canonical report built on this dataset, with charts and methodology, is at **https://credradar.org/reports/thailand-international-school-fees/**
