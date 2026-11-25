@@ -2,7 +2,7 @@
 
 [![Licence: CC BY-NC 4.0](https://img.shields.io/badge/Licence-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) [![Records](https://img.shields.io/badge/records-455-blue.svg)](#files) [![Canonical report](https://img.shields.io/badge/report-credradar.org-teal.svg)](https://credradar.org/reports/thailand-international-school-fees/)
 
-Annual tuition fee history for international schools in Thailand — 455 school-year records for 99 schools, recovered from archived published sources. Every record is a figure that was actually published; nothing is interpolated, estimated, or modelled.
+Annual tuition fee history for international schools in Thailand — 455 school-year records for 98 schools, recovered from archived published sources. Every record is a figure that was actually published; nothing is interpolated, estimated, or modelled.
 
 Published by [CredRadar](https://credradar.org) — Thailand international schools, every fee verified. The canonical report built on this dataset, with charts and methodology, is at **https://credradar.org/reports/thailand-international-school-fees/**
 
@@ -61,7 +61,7 @@ Compilation rules:
 
 ## Coverage caveat
 
-This dataset covers the **international-school segment only** — schools offering an international curriculum — not all Thai private K–12 education. Thailand's bilingual, English Programme and Thai-programme private schools number in the thousands and are outside the scope of this dataset. Not every international school publishes historical fees, and not every published fee page survives in the archive: the 99 schools here are those for whom at least one historical figure could be recovered and verified. Absence of a school or a year means no figure could be verified — not that the fee was zero or unchanged.
+This dataset covers the **international-school segment only** — schools offering an international curriculum — not all Thai private K–12 education. Thailand's bilingual, English Programme and Thai-programme private schools number in the thousands and are outside the scope of this dataset. Not every international school publishes historical fees, and not every published fee page survives in the archive: the 98 schools here are those for whom at least one historical figure could be recovered and verified (99 raw identifiers appear in the file, of which one is a duplicate alias for the same school). Absence of a school or a year means no figure could be verified — not that the fee was zero or unchanged.
 
 ## Cite as
 
