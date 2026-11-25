@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 title: "Thailand International School Fee History (2020/21–2024/25)"
-abstract: "Annual tuition fee history for international schools in Thailand — 455 school-year records for 99 schools, recovered from archived published sources."
+abstract: "Annual tuition fee history for international schools in Thailand — 455 school-year records for 98 schools, recovered from archived published sources."
 authors:
   - name: "CredRadar"
 type: dataset
